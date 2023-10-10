@@ -1,6 +1,8 @@
 # uniMInd
 
 This project won the RUSA Best Rutgers Hack in HacKRU Fall 2023
+https://youtube.com/shorts/j8ZO5Ri3LMo?feature=share
+https://www.youtube.com/watch?v=qUpFGLC2goQ
 
 uniMind: Your ultimate campus wellness companion! Elevate your college life with personalized fitness & well-being tips. Stay balanced, thrive!
 
