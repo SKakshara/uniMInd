@@ -3,6 +3,8 @@
 This project won the RUSA Best Rutgers Hack in HacKRU Fall 2023
 
 https://youtube.com/shorts/j8ZO5Ri3LMo?feature=share
+
+
 https://www.youtube.com/watch?v=qUpFGLC2goQ
 
 uniMind: Your ultimate campus wellness companion! Elevate your college life with personalized fitness & well-being tips. Stay balanced, thrive!
@@ -20,6 +22,10 @@ The fourth step was to create and test. To create, we first needed to pick a pro
 
 The biggest challenge we faced as new developers was learning how Swift and Xcode worked. We took this as a learning opportunity and made sure we knew how and what we wanted to code. We were able to spend enough time learning and applying so we could also gain a new skill. The second challenge we faced as a group was time constraints. We had so many ideas we wanted to add to this app, but due to the learning curve being large and having 24 hours, we were not able to implement every aspect of the application. 
 
+
+
 Whats Next?:
+
+
 As our name suggests, uniMind is for university students. Currently, our app allows students to look at wellness tips and fitness exercises and even add new tips and exercises to the cards. However, eventually, we want to be able to create new cards and have the users create new cards that can be academic and career-goal-specific. Next, we wanted an award system, something college students can look forward to. So we would create badges or stickers for those who complete given goals from the app to promote well-being. The next thing was to create a sense of community, so we would have universities collaborate and have their own personalized versions of the app where they can promote their well-being programs and have discussion posts where students can connect with each other within the university. Lastly, we would want to make our app more aesthetically pleasing by adding a color palette as well as giving the option to edit the appearance of the app. 
 
